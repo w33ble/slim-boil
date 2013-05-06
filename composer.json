@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "dev-master",
+        "slim/extras": "dev-master",
+        "twig/twig": "1.13.*@dev"
+    }
+}

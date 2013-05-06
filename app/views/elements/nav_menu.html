@@ -1,0 +1,15 @@
+<section class="top">
+  <div class="navbar">
+    <div class="navbar-inner">
+      <a class="brand" href="/">{{ Site.title }}</a>
+      <a data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar">
+          Menu
+      </a>
+      <div class="nav-collapse">
+        <ul class="nav">
+          <li{% if pageName == 'Home'%} class="active"{% endif %}><a href="/">Home</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>

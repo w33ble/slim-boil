@@ -1,0 +1,9 @@
+{
+  "name": "slim-site-template",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": "1.9.x",
+    "font-awesome": "3.x",
+    "bootstrap": "2.3.x"
+  }
+}
