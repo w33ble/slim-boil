@@ -1,4 +1,4 @@
-# Slim-App
+# Slim-Boil
 
 This is a Slim PHP boilerplate. It's intended to speed up the creation of simple Slim sites. It includes the following PHP libraries (installed via composer):
 
