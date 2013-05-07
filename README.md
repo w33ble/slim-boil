@@ -6,7 +6,7 @@ This is a Slim PHP boilerplate. It's intended to speed up the creation of simple
 - Slim Extras
 - Twig
 
-No database library is included by default. If you need one, check out [illuminate/database](https://packagist.org/packages/illuminate/database), [Doctrine](https://packagist.org/packages/doctrine/orm) or [MeekroDB](http://www.meekro.com/).
+No database library is included by default. If you need one, check out [Redbean](https://packagist.org/packages/gabordemooij/redbean), [dibi](https://packagist.org/packages/dg/dibi) or [MeekroDB](http://www.meekro.com/). If you are looking for a "proper" ORM, check out [illuminate/database](https://packagist.org/packages/illuminate/database) or [Doctrine](https://packagist.org/packages/doctrine/orm).
 
 It also includes the following frontend libraries, (installed via bower):
 
